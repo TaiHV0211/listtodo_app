@@ -1,15 +1,13 @@
-import react from 'react';
 import './App.css';
-import './responsive.css';
-import 'bootstrap/dist/css/bootstrap.min.css'
+import React from 'react';
+import TodoList from './component/TodoList';
+import 'bootstrap/dist/css/bootstrap.min.css' ;
+import 'font-awesome/css/font-awesome.min.css'
 
-// components
-
-import TodoList from './components/TodoList';
 function App() {
   return (
     <div className="App">
-        <TodoList></TodoList>
+      <TodoList />
     </div>
   );
 }

@@ -12,9 +12,9 @@
 }
 
 .card-wrapper{
-  width: 272px;
-  height: 252px;
-  box-shadow: 0px 3px 50px #a5a5a5;
+  width: 270px; 
+  height: 235px; 
+  box-shadow: 0px 3px 50px #A5A5A5;
   display: flex;
   flex-direction: column;
   margin-right: 73px;

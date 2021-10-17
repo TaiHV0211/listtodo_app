@@ -32,7 +32,7 @@ const EditTask = ({modal, toggle, updateTask, taskObj}) => {
     const handleUpdate = (e) => {
         e.preventDefault();
         let tempObj = {}
-        tempObj['ID'] = ID
+        tempObj['ID'] = taskObj.ID
         tempObj['Name'] = Name
         tempObj['IsCompleted'] = IsCompleted
         tempObj['Deadline'] = Deadline
@@ -45,7 +45,7 @@ const EditTask = ({modal, toggle, updateTask, taskObj}) => {
             <ModalBody>
                     <div className="form-group">
                         <label>ID</label>
-                        <input type="text" className="form-control"  value={ID} onChange= {handleChange} name="ID"/>
+                        <input type="text" className="form-control"  value={ID} onChange= {handleChange} name="ID" readOnly/>
                     </div>
                     <div className = "form-group">
                         <label>Name</label>

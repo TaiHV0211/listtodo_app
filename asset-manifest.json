@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/listtodo_app/static/css/main.41df0d7a.chunk.css",
+    "main.js": "/listtodo_app/static/js/main.92862758.chunk.js",
+    "main.js.map": "/listtodo_app/static/js/main.92862758.chunk.js.map",
+    "runtime-main.js": "/listtodo_app/static/js/runtime-main.344bf1de.js",
+    "runtime-main.js.map": "/listtodo_app/static/js/runtime-main.344bf1de.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/listtodo_app/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.93a4ea5c.chunk.js": "/listtodo_app/static/js/2.93a4ea5c.chunk.js",
+    "static/js/2.93a4ea5c.chunk.js.map": "/listtodo_app/static/js/2.93a4ea5c.chunk.js.map",
+    "static/js/3.88f639f3.chunk.js": "/listtodo_app/static/js/3.88f639f3.chunk.js",
+    "static/js/3.88f639f3.chunk.js.map": "/listtodo_app/static/js/3.88f639f3.chunk.js.map",
+    "index.html": "/listtodo_app/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/listtodo_app/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.41df0d7a.chunk.css.map": "/listtodo_app/static/css/main.41df0d7a.chunk.css.map",
+    "static/js/2.93a4ea5c.chunk.js.LICENSE.txt": "/listtodo_app/static/js/2.93a4ea5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.344bf1de.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.93a4ea5c.chunk.js",
+    "static/css/main.41df0d7a.chunk.css",
+    "static/js/main.92862758.chunk.js"
+  ]
+}
